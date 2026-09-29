@@ -16,7 +16,7 @@ class NameForm(FlaskForm):
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'toodalooo'
+app.config['SECRET_KEY'] = 'potato_totter_tater_tooter'
 
 bootstrap = Bootstrap(app)
 moment = Moment(app)
