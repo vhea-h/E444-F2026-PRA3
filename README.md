@@ -9,3 +9,5 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 ## Activity 1.4 
 <img width="496" height="243" alt="Screenshot from 2026-09-29 01-49-34" src="https://github.com/user-attachments/assets/f9e36186-59bb-4aa5-adae-4dff37dc566e" />
+
+<img width="496" height="243" alt="Screenshot from 2026-09-29 01-53-23" src="https://github.com/user-attachments/assets/1be26c43-6bc2-4f95-b897-81ed1c72c41b" />
