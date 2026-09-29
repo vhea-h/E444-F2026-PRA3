@@ -5,4 +5,5 @@
 This repo is a clone of https://github.com/miguelgrinberg/flasky. 
 
 ## Activity 1.3 
-file:///home/vheahe/Pictures/Screenshots/Screenshot%20from%202026-09-29%2000-54-35.png
+<img width="519" height="264" alt="Screenshot from 2026-09-29 00-54-35" src="https://github.com/user-attachments/assets/394daab2-4105-465b-b268-fbb880fc99ec" />
+
